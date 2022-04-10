@@ -1,0 +1,330 @@
+loading 
+
+Options are being saved 
+Options are saved
+The level was built 
+Loading was succesfully finished 
+click_button_menu 
+the editor has been opened 
+Music reset 
+Searching for levels... 
+..
+19.txt
+23.txt
+24.txt
+26.txt
+28.txt
+29.txt
+3.txt
+30.txt
+31.txt
+33.txt
+34.txt
+35.txt
+36.txt
+6.txt
+7.txt
+8.txt
+ddos-hack_.txt
+jo-jo_.txt
+mnnmm_.txt
+Searching for levels complete 
+Searching for levels... 
+..
+19.txt
+23.txt
+24.txt
+26.txt
+28.txt
+29.txt
+3.txt
+30.txt
+31.txt
+33.txt
+34.txt
+35.txt
+36.txt
+6.txt
+7.txt
+8.txt
+ddos-hack_.txt
+jo-jo_.txt
+mnnmm_.txt
+Searching for levels complete 
+Delete: Saves\19.txt
+Searching for levels... 
+..
+23.txt
+24.txt
+26.txt
+28.txt
+29.txt
+3.txt
+30.txt
+31.txt
+33.txt
+34.txt
+35.txt
+36.txt
+6.txt
+7.txt
+8.txt
+ddos-hack_.txt
+jo-jo_.txt
+mnnmm_.txt
+Searching for levels complete 
+Delete: Saves\23.txt
+Searching for levels... 
+..
+24.txt
+26.txt
+28.txt
+29.txt
+3.txt
+30.txt
+31.txt
+33.txt
+34.txt
+35.txt
+36.txt
+6.txt
+7.txt
+8.txt
+ddos-hack_.txt
+jo-jo_.txt
+mnnmm_.txt
+Searching for levels complete 
+Delete: Saves\24.txt
+Searching for levels... 
+..
+26.txt
+28.txt
+29.txt
+3.txt
+30.txt
+31.txt
+33.txt
+34.txt
+35.txt
+36.txt
+6.txt
+7.txt
+8.txt
+ddos-hack_.txt
+jo-jo_.txt
+mnnmm_.txt
+Searching for levels complete 
+Delete: Saves\26.txt
+Searching for levels... 
+..
+28.txt
+29.txt
+3.txt
+30.txt
+31.txt
+33.txt
+34.txt
+35.txt
+36.txt
+6.txt
+7.txt
+8.txt
+ddos-hack_.txt
+jo-jo_.txt
+mnnmm_.txt
+Searching for levels complete 
+Delete: Saves\28.txt
+Searching for levels... 
+..
+29.txt
+3.txt
+30.txt
+31.txt
+33.txt
+34.txt
+35.txt
+36.txt
+6.txt
+7.txt
+8.txt
+ddos-hack_.txt
+jo-jo_.txt
+mnnmm_.txt
+Searching for levels complete 
+Delete: Saves\29.txt
+Searching for levels... 
+..
+3.txt
+30.txt
+31.txt
+33.txt
+34.txt
+35.txt
+36.txt
+6.txt
+7.txt
+8.txt
+ddos-hack_.txt
+jo-jo_.txt
+mnnmm_.txt
+Searching for levels complete 
+Delete: Saves\3.txt
+Searching for levels... 
+..
+30.txt
+31.txt
+33.txt
+34.txt
+35.txt
+36.txt
+6.txt
+7.txt
+8.txt
+ddos-hack_.txt
+jo-jo_.txt
+mnnmm_.txt
+Searching for levels complete 
+Delete: Saves\30.txt
+Searching for levels... 
+..
+31.txt
+33.txt
+34.txt
+35.txt
+36.txt
+6.txt
+7.txt
+8.txt
+ddos-hack_.txt
+jo-jo_.txt
+mnnmm_.txt
+Searching for levels complete 
+Delete: Saves\31.txt
+Searching for levels... 
+..
+33.txt
+34.txt
+35.txt
+36.txt
+6.txt
+7.txt
+8.txt
+ddos-hack_.txt
+jo-jo_.txt
+mnnmm_.txt
+Searching for levels complete 
+Delete: Saves\33.txt
+Searching for levels... 
+..
+34.txt
+35.txt
+36.txt
+6.txt
+7.txt
+8.txt
+ddos-hack_.txt
+jo-jo_.txt
+mnnmm_.txt
+Searching for levels complete 
+Delete: Saves\34.txt
+Searching for levels... 
+..
+35.txt
+36.txt
+6.txt
+7.txt
+8.txt
+ddos-hack_.txt
+jo-jo_.txt
+mnnmm_.txt
+Searching for levels complete 
+Delete: Saves\35.txt
+Searching for levels... 
+..
+36.txt
+6.txt
+7.txt
+8.txt
+ddos-hack_.txt
+jo-jo_.txt
+mnnmm_.txt
+Searching for levels complete 
+Delete: Saves\36.txt
+Searching for levels... 
+..
+6.txt
+7.txt
+8.txt
+ddos-hack_.txt
+jo-jo_.txt
+mnnmm_.txt
+Searching for levels complete 
+Delete: Saves\6.txt
+Searching for levels... 
+..
+7.txt
+8.txt
+ddos-hack_.txt
+jo-jo_.txt
+mnnmm_.txt
+Searching for levels complete 
+Delete: Saves\7.txt
+Searching for levels... 
+..
+8.txt
+ddos-hack_.txt
+jo-jo_.txt
+mnnmm_.txt
+Searching for levels complete 
+Delete: Saves\8.txt
+Searching for levels... 
+..
+ddos-hack_.txt
+jo-jo_.txt
+mnnmm_.txt
+Searching for levels complete 
+ saving...
+Saved 
+
+Options are being saved 
+Options are saved
+The level was built 
+Searching for levels... 
+..
+ddos-hack_.txt
+GGnn_.txt
+jo-jo_.txt
+mnnmm_.txt
+Searching for levels complete 
+Searching for levels... 
+..
+ddos-hack_.txt
+GGnn_.txt
+jo-jo_.txt
+mnnmm_.txt
+Searching for levels complete 
+ saving...
+Saved 
+
+Options are being saved 
+Options are saved
+The level was built 
+Searching for levels... 
+..
+ddos-hack_.txt
+GGnn_.txt
+jo-jo_.txt
+KOT_B_CAPAE_.txt
+mnnmm_.txt
+Searching for levels complete 
+Delete: Saves\KOT_B_CAPAE_.txt
+Searching for levels... 
+..
+ddos-hack_.txt
+GGnn_.txt
+jo-jo_.txt
+mnnmm_.txt
+Searching for levels complete 
+click_button_menu 
+Options are being saved 
+Options are saved

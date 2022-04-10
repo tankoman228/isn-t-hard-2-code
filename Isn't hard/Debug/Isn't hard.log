@@ -1,0 +1,170 @@
+﻿  Source.cpp
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(197,47): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(63,1): warning C4305: -=: усечение из "double" в "float"
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(63,1): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(64,1): warning C4305: -=: усечение из "double" в "float"
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(64,1): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(71,1): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(75,35): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(75,22): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(78,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(82,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(87,37): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(210,95): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(253,1): warning C4305: *=: усечение из "double" в "float"
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(256,1): warning C4305: *=: усечение из "double" в "float"
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(262,36): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(262,23): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(276,40): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(276,26): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(278,38): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(278,25): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(350,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(352,42): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(352,29): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(359,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(368,67): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(368,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(369,51): warning C4244: аргумент: преобразование "double" в "sf::Uint8", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(370,30): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(373,67): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(373,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(471,35): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(471,22): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(493,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(508,39): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(508,80): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(508,121): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(508,162): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(634,72): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(639,27): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(652,16): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(652,27): warning C4305: -=: усечение из "double" в "float"
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(652,47): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(652,58): warning C4305: -=: усечение из "double" в "float"
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(656,17): warning C4305: -=: усечение из "double" в "float"
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(656,28): warning C4305: -=: усечение из "double" в "float"
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(656,48): warning C4305: -=: усечение из "double" в "float"
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(656,59): warning C4305: -=: усечение из "double" в "float"
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(659,17): warning C4305: -=: усечение из "double" в "float"
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(659,37): warning C4305: -=: усечение из "double" в "float"
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(667,16): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(667,27): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(667,47): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(667,58): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(671,17): warning C4305: -=: усечение из "double" в "float"
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(671,28): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(671,48): warning C4305: -=: усечение из "double" в "float"
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(671,59): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(674,17): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(674,37): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(680,15): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(680,35): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(683,15): warning C4305: -=: усечение из "double" в "float"
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(683,35): warning C4305: -=: усечение из "double" в "float"
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(689,27): warning C4305: -=: усечение из "double" в "float"
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(690,27): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(691,27): warning C4305: -=: усечение из "double" в "float"
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(692,27): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(695,31): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(695,72): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(696,31): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(696,72): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(698,28): warning C4305: -=: усечение из "double" в "float"
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(698,56): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(699,28): warning C4305: -=: усечение из "double" в "float"
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(699,56): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(726,21): warning C4305: *=: усечение из "double" в "float"
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(730,20): warning C4305: *=: усечение из "double" в "float"
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(742,39): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(742,26): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(835,28): warning C4305: -=: усечение из "double" в "float"
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(835,56): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(836,28): warning C4305: -=: усечение из "double" в "float"
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(836,56): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(913,63): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(924,42): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(951,31): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(952,31): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(988,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(1002,41): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(1002,28): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(1009,23): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(1010,23): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(1011,34): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(1044,43): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(1044,29): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(1080,25): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(1181,63): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(1182,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(1184,62): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(1185,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(1224,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(1358,26): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(1359,120): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(1359,80): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(1360,51): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(1360,37): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(1366,120): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(1366,80): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(1367,51): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(1367,37): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(1378,54): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(1379,51): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(1402,51): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(1405,28): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(1409,39): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(1409,26): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(1509,19): warning C4305: *=: усечение из "double" в "float"
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(1512,19): warning C4305: *=: усечение из "double" в "float"
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(1515,30): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(1624,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(1767,56): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(1772,56): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(1775,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(1954,50): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(1955,51): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(1955,36): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(2029,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(2029,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(2034,61): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(2035,30): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(2041,64): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(2042,30): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(2052,76): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(2052,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(2053,41): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(2053,25): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(2080,30): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(2106,60): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(2106,51): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(2112,36): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(2114,77): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(2116,30): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(2116,64): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(2166,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(2166,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(2175,68): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(2175,43): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\Admin\source\repos\Isn't hard\Isn't hard\Source.cpp(1544,15): warning C4102: deafult: неиспользованная метка
+  Isn't hard.vcxproj -> C:\Users\Admin\source\repos\Isn't hard\Debug\Isn't hard.exe
