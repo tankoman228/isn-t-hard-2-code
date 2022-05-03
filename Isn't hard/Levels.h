@@ -13,6 +13,7 @@ using namespace std; using namespace sf;
 
 void levels_cycle() {
 
+	while(Mouse::isButtonPressed(Mouse::Left)){}
 	logg << "Level cycle begin \n";
 	onclick = false;
 
